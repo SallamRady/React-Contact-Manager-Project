@@ -1,0 +1,8 @@
+header{
+    background-color: tomato;
+    padding: 30px;
+    display: flex;
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500;
+}
